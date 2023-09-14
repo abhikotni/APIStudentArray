@@ -1,0 +1,27 @@
+-->public static void rate(int stars) 
+method displays a star rating based on the given number of stars.
+
+
+-->public static int linearSearch(Student[] s, String namekey) 
+method performs a linear search in an array of Student objects by name and returns the index of the matching Student or -1 if not found.
+
+
+-->public static Student[] selectionSort(Student[] s) 
+method performs a selection sort on an array of Student objects based on their IDs and returns the sorted Student array.
+
+
+-->public static int binarySearch(Student[] s, int idkey) 
+method performs a binary search in a sorted array of Student objects by ID and returns the index of the matching Student or -1 if not found.
+
+
+-->public static Student[] bubbleSort(Student[] s) 
+method performs a bubble sort on an array of Student objects based on their IDs and returns the sorted array.
+
+
+-->public static Student[] insertionSort(Student[] s) 
+method performs an insertion sort on an array of Student objects based on their IDs and returns the sorted array.
+
+
+
+-->public static Student[] sorting(Student[] s) 
+method sorts an array of Student objects based on the user's choice of sorting algorithm and returns the sorted array.
